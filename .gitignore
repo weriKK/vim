@@ -1,7 +1,1 @@
-# exclude everything
-vim80/*
-vimtmp/*
-
-# except
-!vim80/.empty
-!vimtmp/.empty
+# Hi, sexy ;)
